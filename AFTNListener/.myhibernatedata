@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Tue Nov 21 20:04:52 CST 2017
+genBasicCompId=false
+sessionFactoryName=com.aftnlistner.sessionFactory.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/AFTNListener/hibernate.reveng.xml
+configFile=/AFTNListener/src/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=com.aftnlistener.bean.BaseHibernateDAO
